@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kafein.rental.RentalApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.675 s - in com.kafein.rental.RentalApplicationTests
